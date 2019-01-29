@@ -32,7 +32,10 @@ Hello World:
    1. Carrot
    1. Cucumber
    
-TABLE
+Fruits | Vegetables
+------------ | -------------
+Apple | Carrot
+Banana | Cucumber
 
 **Bolded Text**
 
