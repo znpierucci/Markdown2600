@@ -5,3 +5,6 @@
 #### H4 Sized Header
 
 Link
+
+http://github.com - automatic!
+[GitHub](http://github.com)
