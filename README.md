@@ -7,3 +7,7 @@
 http://www.youtube.com 
 
 [Markdown File](https://github.com/znpierucci/Markdown2600/blob/master/Second.md)
+
+![Chris D'Elia](/images/chris.jpeg)
+
+Format: ![Alt Text](url)
