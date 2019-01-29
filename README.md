@@ -35,5 +35,3 @@ Hello World:
    1. Carrot
    1. Cucumber
 2. Fruits
-  2. Apple
-  2. Banana
