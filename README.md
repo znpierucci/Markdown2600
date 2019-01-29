@@ -31,4 +31,14 @@ Hello World:
 1. Vegetables
    1. Carrot
    1. Cucumber
+   
+TABLE
+
+**Bolded Text**
+
+*Italicized Text*
+
+~~Strikethrough Text~~
+
+Final Challenge
 
