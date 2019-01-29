@@ -43,5 +43,7 @@ Banana | Cucumber
 
 ~~Strikethrough Text~~
 
-Final Challenge
+-----------------------
+
+======================
 
