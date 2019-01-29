@@ -27,14 +27,8 @@ Hello World:
 * Fruits
   * Apple
   * Banana
-* Vegetables
-  * Cucumber
-  * Carrot
 
 1. Vegetables
    1. Carrot
    1. Cucumber
-1. Fruits
-  1. Apple
-   1. Banana
 
