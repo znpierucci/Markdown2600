@@ -10,4 +10,4 @@ http://www.youtube.com
 
 ![Chris D'Elia](/chris.jpeg)
 
-Format: ![Frank Ocean](https://en.wikipedia.org/wiki/Frank_Ocean#/media/File:Frank_ocean_green_hair.jpg)
+![Frank Ocean](https://en.wikipedia.org/wiki/Frank_Ocean#/media/File:Frank_ocean_green_hair.jpg)
