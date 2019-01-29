@@ -11,3 +11,11 @@ http://www.youtube.com
 ![Chris D'Elia](/chris.jpeg)
 
 ![Frank Ocean](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frank_ocean_green_hair.jpg/800px-Frank_ocean_green_hair.jpg)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
