@@ -10,4 +10,4 @@ http://www.youtube.com
 
 ![Chris D'Elia](/chris.jpeg)
 
-![Frank Ocean](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj8l8vK45HgAhVItIMKHR6wCmgQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFrank_Ocean&psig=AOvVaw2IyugVc6i34r3mNAmSwaTO&ust=1548809604928567)
+![Frank Ocean](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frank_ocean_green_hair.jpg/800px-Frank_ocean_green_hair.jpg)
