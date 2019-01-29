@@ -44,6 +44,3 @@ Banana | Cucumber
 ~~Strikethrough Text~~
 
 -----------------------
-
-======================
-
