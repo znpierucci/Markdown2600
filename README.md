@@ -24,9 +24,16 @@ Hello World:
 
 > How are you?
 
-* Fruit
+* Fruits
   * Apple
   * Banana
 * Vegetables
   * Cucumber
   * Carrot
+
+1. Vegetables
+   1. Carrot
+   1. Cucumber
+2. Fruits
+  2. Apple
+  2. Banana
